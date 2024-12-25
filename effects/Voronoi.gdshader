@@ -1,5 +1,5 @@
 /*
-    MatCap Shader by Lackluster Labs
+    Voronoi Shader by Lackluster Labs
 
     MIT License
 
